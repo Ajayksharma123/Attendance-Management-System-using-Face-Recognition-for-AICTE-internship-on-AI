@@ -1,1 +1,1 @@
-# Attendance-Management-for-AICTE-internship-on-AI-System-using-Face-Recognition-for-
+# Attendance-Management-System-using-Face-Recognition-for-AICTE-internship-on-AI
